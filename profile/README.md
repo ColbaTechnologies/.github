@@ -12,7 +12,7 @@ We are always looking for top developers. If you are interested these are the ar
 
 - .Net for Backend
 - Angular / Reactjs for frontend
-- Koltin / Swirf for Mobile development
+- Koltin / Swift for Mobile development
 
 But don't worry if you have other skills that are not in this list, don't hestiate to contact us. We are always happy to talk with others.
 
