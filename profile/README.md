@@ -25,6 +25,7 @@ Or more details about job offers in:
 
 Conding Dojo Kata
 - [Harry Potter Books](https://github.com/ColbaTechnologies/HarryPotterKata)
+- [Gilde Rose Refactoring](https://github.com/ColbaTechnologies/GildedRoseRefactoringKata)
 
 ## 🍺 Slack Channels
 
