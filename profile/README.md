@@ -38,7 +38,7 @@ Talk about other things not related with technologies
 ### #Internship
 Channel dedicated to exchange question between people in intenship process and mentored guys.
 
-### #Coffe Tech
+### #Coffee Tech
 To talk and organize the techincal talks after the healthy breakfast. Every from 11.30 to 12.00
 
 ### #LoudSpeaker
@@ -50,6 +50,8 @@ Just for fun. Memes 😂
 ### #Eventos 🍾
 Talk about events taking place in colba. Summer party, dinners, etc...
 
+### Coding-dojo
+Channel to dicsuss different progaming kata approach
 
 <!--
 
