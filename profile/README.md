@@ -24,8 +24,10 @@ Or more details about job offers in:
 ## 🍿 Fun facts
 
 Conding Dojo Kata
-- [Harry Potter Books](https://github.com/ColbaTechnologies/HarryPotterKata)
-- [Gilde Rose Refactoring](https://github.com/ColbaTechnologies/GildedRoseRefactoringKata)
+- [Harry Potter Books](https://github.com/ColbaTechnologies/coding-dojo/tree/main/HarryPotterKata)
+- [Gilde Rose Refactoring](https://github.com/ColbaTechnologies/coding-dojo/tree/main/GildedRoseRefactoringKata)
+- [Minesweeper](https://github.com/ColbaTechnologies/coding-dojo/tree/main/Minesweeper)
+- [Bank OCR](https://github.com/ColbaTechnologies/coding-dojo/tree/main/BankOcr)
 
 ## 🍺 Slack Channels
 
